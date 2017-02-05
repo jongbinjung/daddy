@@ -2,14 +2,14 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-git log --pretty=format:"%s" --since="$(cat last_deploy)" > daddy.jongbin.com/upstream_commits
+git log --pretty=format:"%s" --since="$(cat last_deploy)" > dam.jongbin.com/upstream_commits
 date +"%F %T" > last_deploy
 
 # Build the project.
-hugo -d daddy.jongbin.com
+hugo -d dam.jongbin.com
 
 # Go To Public folder
-cd daddy.jongbin.com
+cd dam.jongbin.com
 # Add changes to git.
 git add -A
 
