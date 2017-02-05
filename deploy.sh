@@ -21,7 +21,7 @@ fi
 git commit -m "$msg" -m "$(cat upstream_commits)"
 
 # Push source and build repos.
-git push origin master
+git push origin gh-pages
 
 # Come Back
 cd ..
