@@ -17,16 +17,15 @@ hasCJKLanguage = true
     post = "/:year/:month/:day/:slug"
 
 [params]
-    # Tell me who you are
     author = "정종빈"
-    bio = "주말아빠"
+    bio = "남편 > 학생 > 아빠"
     location = "우리집"
     site_description = "아빠와 딸이 열심히 놀러 다니는 이야기"
     copyright  = "[종빈](http://jongbin.com) + \
                   [휴고](//gohugo.io) 블로그 + \
                   [Icarus](http://github.com/ppoffice) 테마"
     avatar = "media/avatar.png"
-    logo = "css/images/logo.png"
+    #logo = "css/images/logo.png"
     disable_mathjax = true # set to true to disable MathJax
 
     # Format dates with Go's time formatting
@@ -36,7 +35,8 @@ hasCJKLanguage = true
     custom_css = [
     "css/noto.css"
     ]
-	custom_js  = []
+
+    custom_js  = []
 
 # Create custom menu entries by defining a label and a link for
 # them. Since you can also link posts, you've the option the
@@ -61,7 +61,7 @@ hasCJKLanguage = true
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://github.com/jongbinjung"
+    follow_button = "http://jongbin.com"
 
 
 [social]
@@ -86,7 +86,7 @@ hasCJKLanguage = true
     wordpress       = ""
     tumblr          = ""
     xing            = ""
-    linkedin        = ""
+    linkedin        = "jongbinjung"
     slideshare      = ""
     stackoverflow   = ""
     reddit          = ""

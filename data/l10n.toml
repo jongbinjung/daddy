@@ -18,7 +18,7 @@
     next = "다음"
 
 [profile]
-    follow_button = "Follow"
+    follow_button = "더보기"
     tags = "태그"
     posts = "글"
 
