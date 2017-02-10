@@ -24,7 +24,7 @@ noprevnext = true
 
 - [x] 04일: [공짜 아이스 스케이팅 (Winter Lodge)]({{< ref "post/weekend/01_winter_lodge.md" >}})
 - [ ] 11일: 발렌타인 초코렛 만들기
-- [ ] 18일:
+- [ ] 18일: Tahoe (https://www.vrbo.com/1009140)
 - [ ] 25일:
 
 # 먼 훗날 언젠가 ...
