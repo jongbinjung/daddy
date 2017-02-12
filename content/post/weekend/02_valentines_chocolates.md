@@ -28,7 +28,7 @@ disable_comments = false
   src="/media/weekends/02/with_francis.jpg"
   title="개비 정 친구 프랜시스 킴" >}}
 
-[핀터리스트](https://pin.it/n55jHQ8)에서 찾아 본대로 제료들을 준비! (하는 동안
+[핀터리스트](https://pin.it/n55jHQ8)에서 찾아 본대로 재료들을 준비! (하는 동안
 개비 정과 프란시스 킴은 어찌나 둘이 잘 노는지;;; 둘이 자주 만나야겠다 싶더라.)
 
 {{< figure
@@ -60,7 +60,7 @@ disable_comments = false
 
 {{< figure
   src="/media/weekends/02/dirty_results.jpg"
-  title="기대와는 다리, 다소 안타까운 비주얼" >}}
+  title="기대와는 달리, 다소 안타까운 비주얼" >}}
 
 초코렛이 굳기를 기다리는 동안, 우린 30분을 걸어서 "큰집"에 설렁탕을 먹으러
 다녀옴. 나도 "큰집"에서 걸어서 30분 떨어진 곳에 살고 싶다 …
