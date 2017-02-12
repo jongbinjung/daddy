@@ -1,10 +1,17 @@
 +++
-tags = []
-categories = []
+title = ""
 description = ""
-menu = ""
-banner = ""
+
+tags = [
+  "",
+]
+categories = [""]
+
+banner = "/banners/"
 images = []
+
+menu = ""
+slug = ""
 
 draft = true
 disable_comments = true
