@@ -24,8 +24,7 @@ noprevnext = true
 
 - [x] 04일: [공짜 아이스 스케이팅 (Winter Lodge)]({{< ref "post/weekend/01_winter_lodge.md" >}})
 - [x] 11일: [발렌타인 초코렛 만들기]({{< ref "post/weekend/02_valentines_chocolates.md" >}})
-- [x] 18일: Tahoe - [3박]({{< ref "post/weekend/03_tahoe_1.md" >}})
-[4일]({{< ref "post/weekend/03_tahoe_2.md" >}}) (https://www.vrbo.com/1009140)
+- [x] 18일: [Tahoe]({{< ref "post/weekend/03_tahoe_1.md" >}}) (https://www.vrbo.com/1009140)
 - [ ] 25일: [Nudibranch](https://www.google.com/search?q=nudibranch&tbm=isch)
   보러 tide pooling 가기
 
