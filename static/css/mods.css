@@ -1,0 +1,9 @@
+.article-entry figcaption p {
+  color: #999;
+  font-weight: bold;
+  display: block;
+  font-size: 1.2em;
+  margin-top: 0.6em;
+  margin-bottom: 1.6em;
+  position: relative;
+}

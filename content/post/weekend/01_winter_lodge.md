@@ -41,7 +41,7 @@ allowfullscreen></iframe>
 
 {{< figure
   src="/media/weekends/01/skates.jpg"
-  title="아빠 + 어린이 스케이트"
+  caption="아빠 + 어린이 스케이트"
 >}}
 
 말도 안되게 귀여운 초소형 어린이 스케이트!
@@ -61,7 +61,7 @@ allowfullscreen></iframe>
 
 {{< figure
   src="/media/weekends/01/at_the_door.jpg"
-  title="들어갈까 말까 고민"
+  caption="들어갈까 말까 고민"
 >}}
 
 스케이트장에 있는 약 두 시간 동안, 계속 지대한 관심을 보이고, 내가
@@ -71,7 +71,7 @@ allowfullscreen></iframe>
 
 {{< figure
   src="/media/weekends/01/tongue.jpg"
-  title="스케이트는 안 타고, 구경만…"
+  caption="스케이트는 안 타고, 구경만…"
 >}}
 
 공짜가 아니더라도, 많이 비싸지는 않은 편(성인 입장료 $8, 스케이트 대여료
@@ -83,7 +83,7 @@ $4)이고 위치도 가까워서, 가끔씩 데리고 다니다보면, 언젠간
 
 {{< figure
   src="/media/weekends/01/lying.jpg"
-  title="쇼핑센터 분수대에서 일광욕"
+  caption="쇼핑센터 분수대에서 일광욕"
 >}}
 
 어쩌면 이리도 쇼핑 센터 거닐며 구경하고, 분수대/화분 같은거 앞에서 폼 잡으며
@@ -95,3 +95,4 @@ $4)이고 위치도 가까워서, 가끔씩 데리고 다니다보면, 언젠간
 집에서도 먹으라고 좀 사왔다.
 
 이리하여, 이 "아빠와 나" 블로그의 첫 주말나들이 끝.
+

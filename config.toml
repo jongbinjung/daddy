@@ -33,7 +33,8 @@ hasCJKLanguage = true
 
     # Add custom assets with their paths relative to the static folder
     custom_css = [
-    "css/noto.css"
+      "css/noto.css",
+      "css/mods.css",
     ]
 
     custom_js  = []
