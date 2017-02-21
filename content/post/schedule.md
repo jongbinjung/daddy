@@ -23,8 +23,11 @@ noprevnext = true
 ## 2월
 
 - [x] 04일: [공짜 아이스 스케이팅 (Winter Lodge)]({{< ref "post/weekends/01_winter_lodge.md" >}})
+    - 11 km / $16.15
 - [x] 11일: [발렌타인 초코렛 만들기]({{< ref "post/weekends/02_valentines_chocolates.md" >}})
+    - 42 km / $44.4
 - [x] 18일: [Tahoe]({{< ref "post/weekends/03_tahoe.md" >}}) (https://www.vrbo.com/1009140)
+    - 750 km / $701.19
 - [ ] 25일: [Nudibranch](https://www.google.com/search?q=nudibranch&tbm=isch)
   보러 tide pooling 가기
 
