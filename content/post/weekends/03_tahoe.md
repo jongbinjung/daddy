@@ -11,7 +11,7 @@ tags = [
   ]
 description = "3박 4일 스키장 여행기"
 title = "#3 타호 삼박사일!"
-draft = true
+draft = false
 slug = "tahoe"
 banner = "/banners/weekends/03-tahoe.jpg"
 

@@ -8,7 +8,7 @@
 # Linked older/newer posts at the bottom of each one
 [articles.linked_posts]
     older = "이전"
-    newer = "최근"
+    newer = "다음"
 
 [search]
     placeholder = "검색"
