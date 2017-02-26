@@ -1,6 +1,6 @@
 +++
-date = "2017-02-24T17:21:19-08:00"
-draft = true
+date = "2017-02-25T22:00:19-08:00"
+draft = false
 slug = "fitzgerald-marine"
 banner = "/banners/weekends/04-fitzgerald-marine.jpg"
 disable_comments = false
