@@ -32,7 +32,7 @@ noprevnext = true
   보러 [tide pooling 가기]({{< ref "post/weekends/04_fitzgerald_marine.md" >}})
   ([장소](http://www.fitzgeraldreserve.org/newffmrsite/) /
    [조류](http://www.tides.net/california/2193/?year=2017&month=2&day=25))
-    - 97 km / $
+    - 97 km / $15.7
 - [x] 18일: [Tahoe]({{< ref "post/weekends/03_tahoe.md" >}})
   ([숙소](https://www.vrbo.com/1009140))
     - 750 km / $701.19
