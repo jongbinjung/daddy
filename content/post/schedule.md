@@ -24,7 +24,8 @@ noprevnext = true
 - [ ] 25일:
 - [ ] 18일:
 - [ ] 11일:
-- [ ] 04일:
+- [x] 04일: [병원]({{< ref "post/weekends/05_pamf.md" >}})
+    - 6.1 km / $110
 
 ## 2월
 

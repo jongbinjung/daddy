@@ -10,6 +10,7 @@ categories = ["주말나들이"]
 tags = [
   "겨울",
   "야외",
+  "쇼핑",
 ]
 
 slug = "ice-skating"
