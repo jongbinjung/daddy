@@ -23,7 +23,8 @@ noprevnext = true
 ## 3월
 - [ ] 25일:
 - [ ] 18일: 할머니랑 나들이
-- [ ] 11일:
+- [x] 11일: [집에서 볼풀 놀이]({{< ref "post/weekends/06_ball_pool.md" >}})
+    - 0 km / $0
 - [x] 04일: [병원]({{< ref "post/weekends/05_pamf.md" >}})
     - 6.1 km / $110
 
