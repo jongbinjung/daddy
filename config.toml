@@ -5,7 +5,7 @@ disqusShortname = "daddyandme"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-88094548-2"
 # Define the number of posts per page
-paginate = 5
+paginate = 6
 footnotereturnlinkcontents = "↩"
 theme = "hugo-icarus-theme"
 
