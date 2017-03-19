@@ -17,6 +17,8 @@ disable_comments = false
 
 <!--more-->
 
+이렇게, … 날도 무사히, 끝.
+
 # 요약
 
 ## 이동거리: 약 x 마일 (y km)

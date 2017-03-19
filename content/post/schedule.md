@@ -21,8 +21,9 @@ noprevnext = true
 # 2017 년
 
 ## 3월
-- [ ] 25일:
-- [ ] 18일: 할머니랑 나들이
+- [ ] 25일: Monterey Bay 아쿠아리움
+- [x] 18일: [할머니랑 나들이]({{< ref "post/weekends/06_shoreline_park.md" >}})
+    - 26 km / $50.18
 - [x] 11일: [집에서 볼풀 놀이]({{< ref "post/weekends/06_ball_pool.md" >}})
     - 0 km / $0
 - [x] 04일: [병원]({{< ref "post/weekends/05_pamf.md" >}})
