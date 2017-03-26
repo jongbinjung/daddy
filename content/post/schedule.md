@@ -20,9 +20,17 @@ noprevnext = true
 
 # 2017 년
 
+## 4월
+- [ ] 29일:
+- [ ] 22일:
+- [ ] 15일:
+- [ ] 08일:
+- [ ] 01일:
+
 ## 3월
-- [ ] 25일: Monterey Bay 아쿠아리움
-- [x] 18일: [할머니랑 나들이]({{< ref "post/weekends/06_shoreline_park.md" >}})
+- [x] 25일: [할머니/고모 귀국]({{< ref "post/weekends/08_goodbye.md" >}})
+    - 72 km / $0
+- [x] 18일: [할머니랑 나들이]({{< ref "post/weekends/07_shoreline_park.md" >}})
     - 26 km / $50.18
 - [x] 11일: [집에서 볼풀 놀이]({{< ref "post/weekends/06_ball_pool.md" >}})
     - 0 km / $0
@@ -46,5 +54,6 @@ noprevnext = true
 
 # 먼 훗날 언젠가 ...
 
+- [ ] Monterey Bay 아쿠아리움
 - [ ] 빅 베이슨 등산
 - [ ] 자전거 여행
