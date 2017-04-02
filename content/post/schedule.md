@@ -25,9 +25,12 @@ noprevnext = true
 - [ ] 22일:
 - [ ] 15일:
 - [ ] 08일:
-- [ ] 01일:
+- [x] 01일: [실내 수영장 물놀이]({{< ref "post/weekends/09_swimming.md" >}})
+    - 31 km / $79.77
 
 ## 3월
+- [x] 31일: [(복불복) 머리 자르기]({{< ref "post/first_haircut.md" >}})
+    - 19 km / $52.75
 - [x] 25일: [할머니/고모 귀국]({{< ref "post/weekends/08_goodbye.md" >}})
     - 72 km / $0
 - [x] 18일: [할머니랑 나들이]({{< ref "post/weekends/07_shoreline_park.md" >}})
