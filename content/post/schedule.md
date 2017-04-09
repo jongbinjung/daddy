@@ -23,8 +23,9 @@ noprevnext = true
 ## 4월
 - [ ] 29일:
 - [ ] 22일:
-- [ ] 15일:
-- [ ] 08일:
+- [ ] 15일: 해변 물/모래 놀이
+- [x] 08일: [플레이 데이트]({{< ref "post/weekends/10_play_date.md" >}})
+    - 0 km / $0 
 - [x] 01일: [실내 수영장 물놀이]({{< ref "post/weekends/09_swimming.md" >}})
     - 31 km / $79.77
 

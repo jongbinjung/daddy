@@ -1,11 +1,12 @@
 +++
 banner = "/banners/weekends/01-winter-lodge.jpg"
 
-title = ""
+title = "#XX S"
 description = ""
 
 categories = ["주말나들이"]
 tags = [
+  "",
   "",
 ]
 
