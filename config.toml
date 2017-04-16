@@ -5,7 +5,7 @@ disqusShortname = "daddyandme"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-88094548-2"
 # Define the number of posts per page
-paginate = 3
+paginate = 4
 footnotereturnlinkcontents = "↩"
 theme = "hugo-icarus-theme"
 
@@ -20,7 +20,7 @@ hasCJKLanguage = true
     author = "정종빈"
     bio = "남편 > 학생 > 아빠"
     location = "우리집"
-    site_description = "아빠와 딸이 열심히 놀러 다니는 이야기"
+    site_description = "캘리포니아에 사는 아빠와 딸이 주말마다 열심히 놀러 다니는 이야기"
     copyright  = "[종빈](http://jongbin.com) + \
                   [휴고](//gohugo.io) 블로그 + \
                   [Icarus](http://github.com/ppoffice) 테마"
@@ -101,6 +101,6 @@ hasCJKLanguage = true
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     recent_articles = true
-    categories = false
-    tags = true
+    categories = true
+    tags = false
     tag_cloud = true

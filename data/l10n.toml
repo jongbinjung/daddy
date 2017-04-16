@@ -33,7 +33,7 @@
     title = "최근글"
 
 [widgets.tag_cloud]
-    title = "클라우드"
+    title = "태그"
 
 [widgets.tags]
     title = "태그"
