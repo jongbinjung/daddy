@@ -21,9 +21,11 @@ noprevnext = true
 # 2017 년
 
 ## 4월
-- [ ] 29일:
-- [ ] 22일: 로뎅 박물관
+- [ ] 29일: 라구니타 호수
+- [x] 22일: [로뎅 박물관]({{< ref "post/weekends/12_cantor.md" >}})
+    - 3.5 km / $0 
 - [x] 15일: [산 그레고리오 해변]({{< ref "post/weekends/11_san_gregorio.md">}})
+    - 115 km / $33
 - [x] 08일: [플레이 데이트]({{< ref "post/weekends/10_playdate.md" >}})
     - 115 km / $33
 - [x] 01일: [실내 수영장 물놀이]({{< ref "post/weekends/09_swimming.md" >}})

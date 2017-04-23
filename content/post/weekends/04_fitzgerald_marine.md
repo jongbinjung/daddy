@@ -8,6 +8,7 @@ tags = [
     "야외",
     "해변",
     "관찰",
+    "학습",
 ]
 categories = ["주말나들이"]
 description = ""
