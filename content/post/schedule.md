@@ -20,14 +20,20 @@ noprevnext = true
 
 # 2017 년
 
+## 5월
+- [ ] 27일:
+- [ ] 20일:
+- [ ] 13일:
+- [ ] 06일: 
+
 ## 4월
-- [ ] 29일: 라구니타 호수
+- [ ] 29일: 딸기 농장(http://www.swantonberryfarm.com/)
 - [x] 22일: [로뎅 박물관]({{< ref "post/weekends/12_cantor.md" >}})
     - 3.5 km / $0 
 - [x] 15일: [산 그레고리오 해변]({{< ref "post/weekends/11_san_gregorio.md">}})
     - 115 km / $33
 - [x] 08일: [플레이 데이트]({{< ref "post/weekends/10_playdate.md" >}})
-    - 115 km / $33
+    - 0 km / $0
 - [x] 01일: [실내 수영장 물놀이]({{< ref "post/weekends/09_swimming.md" >}})
     - 31 km / $79.77
 
@@ -60,6 +66,7 @@ noprevnext = true
 
 # 먼 훗날 언젠가 ...
 
+- [ ] 라구니타 호수
 - [ ] Monterey Bay 아쿠아리움
 - [ ] 빅 베이슨 등산
 - [ ] 자전거 여행
