@@ -24,7 +24,7 @@ noprevnext = true
 - [ ] 27일:
 - [ ] 20일:
 - [ ] 13일:
-- [ ] 06일: 
+- [ ] 06일: 오클랜드 동물원
 
 ## 4월
 - [ ] 29일: 딸기 농장(http://www.swantonberryfarm.com/)
