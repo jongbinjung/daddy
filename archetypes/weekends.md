@@ -6,13 +6,16 @@ description = ""
 
 categories = ["주말나들이"]
 tags = [
-  "",
-  "",
+    "",
+    "",
+]
+people = [
+    "",
 ]
 
 slug = ""
 
-draft = true
+draft = false
 disable_comments = false
 +++
 

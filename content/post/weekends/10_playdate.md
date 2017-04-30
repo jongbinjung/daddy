@@ -8,6 +8,9 @@ tags = [
     "실내",
     "친구",
 ]
+people = [
+    "동네친구 주한이"
+]
 categories = ["주말나들이"]
 title = "#10 플레이 데이트"
 banner = "/banners/weekends/10-playdate.jpg"
