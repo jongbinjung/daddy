@@ -13,6 +13,11 @@ theme = "hugo-icarus-theme"
 languageCode = "ko-KR"
 hasCJKLanguage = true
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+person = "people"
+
 [permalinks]
     post = "/:year/:month/:day/:slug"
 
@@ -104,3 +109,4 @@ hasCJKLanguage = true
     categories = true
     tags = false
     tag_cloud = true
+    people = true

@@ -37,3 +37,6 @@
 
 [widgets.tags]
     title = "태그"
+
+[widgets.people]
+    title = "등장인물"
