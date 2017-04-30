@@ -18,26 +18,37 @@ noprevnext = true
 
 혹시 추천할 활동이나 주의사항(해봤는데 별로더라 등)이 있으면 코멘트 주세요!
 
-# 2017 년
+- [2017년](#2017) - [2월](#201702) / [3월](#201703) / [4월](#201704) / [5월](#201705)
 
-## 5월
+# 먼 훗날 언젠가 ...
+
+- [ ] 라구니타 호수
+- [ ] Monterey Bay 아쿠아리움
+- [ ] 빅 베이슨 등산
+- [ ] 자전거 여행
+
+# <a name="2017"></a>2017 년
+
+## <a name="201705"></a>5월
 - [ ] 27일:
 - [ ] 20일:
 - [ ] 13일:
 - [ ] 06일: 오클랜드 동물원
 
-## 4월
-- [ ] 29일: 딸기 농장(http://www.swantonberryfarm.com/)
+## <a name="201704"></a>4월: 328km / $151.2
+- [x] 29일: [딸기 농장]({{< ref "post/weekends/13_strawberry_picking.md" 
+    >}})(http://www.swantonberryfarm.com/)
+    - 178 km / $38.4
 - [x] 22일: [로뎅 박물관]({{< ref "post/weekends/12_cantor.md" >}})
-    - 3.5 km / $0 
+    - 4 km / $0 
 - [x] 15일: [산 그레고리오 해변]({{< ref "post/weekends/11_san_gregorio.md">}})
     - 115 km / $33
 - [x] 08일: [플레이 데이트]({{< ref "post/weekends/10_playdate.md" >}})
     - 0 km / $0
 - [x] 01일: [실내 수영장 물놀이]({{< ref "post/weekends/09_swimming.md" >}})
-    - 31 km / $79.77
+    - 31 km / $79.8
 
-## 3월
+## <a name="201703"></a>3월: 123km / $212.93
 - [x] 31일: [(복불복) 머리 자르기]({{< ref "post/first_haircut.md" >}})
     - 19 km / $52.75
 - [x] 25일: [할머니/고모 귀국]({{< ref "post/weekends/08_goodbye.md" >}})
@@ -47,9 +58,9 @@ noprevnext = true
 - [x] 11일: [집에서 볼풀 놀이]({{< ref "post/weekends/06_ball_pool.md" >}})
     - 0 km / $0
 - [x] 04일: [병원]({{< ref "post/weekends/05_pamf.md" >}})
-    - 6.1 km / $110
+    - 6 km / $110
 
-## 2월
+## <a name="201702"></a>2월: 900km / $1041.44
 
 - [x] 25일: [Nudibranch](https://www.google.com/search?q=nudibranch&tbm=isch)
   보러 [tide pooling 가기]({{< ref "post/weekends/04_fitzgerald_marine.md" >}})
@@ -64,9 +75,3 @@ noprevnext = true
 - [x] 04일: [공짜 아이스 스케이팅 (Winter Lodge)]({{< ref "post/weekends/01_winter_lodge.md" >}})
     - 11 km / $16.15
 
-# 먼 훗날 언젠가 ...
-
-- [ ] 라구니타 호수
-- [ ] Monterey Bay 아쿠아리움
-- [ ] 빅 베이슨 등산
-- [ ] 자전거 여행
