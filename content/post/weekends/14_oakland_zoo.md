@@ -1,7 +1,11 @@
 +++
 categories = ["주말나들이"]
 description = ""
-tags = ["",""]
+tags = [
+    "야외",
+    "친구",
+    "체험",
+]
 disable_comments = false
 date = "2017-05-06T21:47:28-07:00"
 title = "#14 오클랜드 동물원"
