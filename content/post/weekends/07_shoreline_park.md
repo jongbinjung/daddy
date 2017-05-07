@@ -6,6 +6,7 @@ disable_comments = false
 date = "2017-03-18T16:04:10-07:00"
 categories = ["주말나들이"]
 tags = [
+    "가족",
     "야외",
     "산책",
     ]
