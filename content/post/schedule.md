@@ -33,7 +33,8 @@ noprevnext = true
 ## <a name="201705"></a>5월
 - [ ] 27일:
 - [ ] 20일:
-- [ ] 13일: 교회 수양회
+- [x] 13일: [교회 수양회]({{< ref "post/weekends/15_church_camp.md" >}})
+    - 119 km 
 - [x] 06일: [오클랜드 동물원]({{< ref "post/weekends/14_oakland_zoo.md" >}})
     - 144 km / $58.3
 
