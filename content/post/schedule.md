@@ -27,13 +27,14 @@ noprevnext = true
 - [ ] Monterey Bay 아쿠아리움
 - [ ] 빅 베이슨 등산
 - [ ] 자전거 여행
-- [ ] [Filoli](http://www.filoli.org/)
+- [ ] Filoli (http://www.filoli.org/)
 
 # <a name="2017"></a>2017 년
 
 ## <a name="201705"></a>5월
 - [ ] 27일:
-- [ ] 20일:
+- [x] 20일: [동네 카니발]({{< ref "post/weekends/16_carnival.md" >}})
+    - 26 km / $58.3
 - [x] 13일: [교회 수양회]({{< ref "post/weekends/15_church_camp.md" >}})
     - 119 km 
 - [x] 06일: [오클랜드 동물원]({{< ref "post/weekends/14_oakland_zoo.md" >}})
