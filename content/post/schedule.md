@@ -18,7 +18,7 @@ noprevnext = true
 
 혹시 추천할 활동이나 주의사항(해봤는데 별로더라 등)이 있으면 코멘트 주세요!
 
-- [2017년](#2017) - [2월](#201702) / [3월](#201703) / [4월](#201704) / 
+- [2017년](#2017) - [2월](#201702) / [3월](#201703) / [4월](#201704) /
   [5월](#201705)
 
 # 먼 훗날 언젠가 ...
@@ -32,20 +32,21 @@ noprevnext = true
 # <a name="2017"></a>2017 년
 
 ## <a name="201705"></a>5월
-- [ ] 27일:
+- [x] 27일: [어린이 도서관]({{< ref "post/weekends/17_childrens_library.md" >}})
+    -  7 km / $9.5
 - [x] 20일: [동네 카니발]({{< ref "post/weekends/16_carnival.md" >}})
     - 26 km / $58.3
 - [x] 13일: [교회 수양회]({{< ref "post/weekends/15_church_camp.md" >}})
-    - 119 km 
+    - 119 km
 - [x] 06일: [오클랜드 동물원]({{< ref "post/weekends/14_oakland_zoo.md" >}})
     - 144 km / $58.3
 
 ## <a name="201704"></a>4월: 328km / $151.2
-- [x] 29일: [딸기 농장]({{< ref "post/weekends/13_strawberry_picking.md" 
+- [x] 29일: [딸기 농장]({{< ref "post/weekends/13_strawberry_picking.md"
     >}})(http://www.swantonberryfarm.com/)
     - 178 km / $38.4
 - [x] 22일: [로뎅 박물관]({{< ref "post/weekends/12_cantor.md" >}})
-    - 4 km / $0 
+    - 4 km / $0
 - [x] 15일: [산 그레고리오 해변]({{< ref "post/weekends/11_san_gregorio.md">}})
     - 115 km / $33
 - [x] 08일: [플레이 데이트]({{< ref "post/weekends/10_playdate.md" >}})
