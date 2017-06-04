@@ -19,7 +19,7 @@ noprevnext = true
 혹시 추천할 활동이나 주의사항(해봤는데 별로더라 등)이 있으면 코멘트 주세요!
 
 - [2017년](#2017) - [2월](#201702) / [3월](#201703) / [4월](#201704) /
-  [5월](#201705)
+  [5월](#201705) / [6월](#201706)
 
 # 먼 훗날 언젠가 ...
 
@@ -31,11 +31,18 @@ noprevnext = true
 
 # <a name="2017"></a>2017 년
 
-## <a name="201705"></a>5월
+## <a name="201706"></a>6월
+- [ ] 24일:
+- [ ] 17일:
+- [ ] 10일:
+- [ ] 03일: [몬터레이 수족관]({{< ref "post/weekends/18_monterey_aquarium.md" >}})
+    - 282 km / $119.2
+
+## <a name="201705"></a>5월: 296km / $117.9
 - [x] 27일: [어린이 도서관]({{< ref "post/weekends/17_childrens_library.md" >}})
     -  7 km / $9.5
 - [x] 20일: [동네 카니발]({{< ref "post/weekends/16_carnival.md" >}})
-    - 26 km / $58.3
+    - 26 km / $50.1
 - [x] 13일: [교회 수양회]({{< ref "post/weekends/15_church_camp.md" >}})
     - 119 km
 - [x] 06일: [오클랜드 동물원]({{< ref "post/weekends/14_oakland_zoo.md" >}})
