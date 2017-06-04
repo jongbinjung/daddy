@@ -7,7 +7,6 @@ tags = [
 banner = "/banners/weekends/17-childrens-library.jpg"
 draft = false
 people = ["학교친구 세윤이"]
-description = " "
 date = "2017-05-27T22:09:23-07:00"
 disable_comments = false
 slug = "childrens-library"

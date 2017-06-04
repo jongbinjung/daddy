@@ -4,8 +4,8 @@ banner = "/banners/weekends/01-winter-lodge.jpg"
 date = "2017-02-04T22:37:59-08:00"
 
 title = "#1 아이스 스케이팅"
-description = "아빠와 나 블로그, 그리고 주말나들이의 시작! \
-  Winter Lodge 스케이트 장에서 아이스 스케이팅!"
+description = """아빠와 나 블로그, 그리고 주말나들이의 시작!
+Winter Lodge 스케이트 장에서 아이스 스케이팅!"""
 categories = ["주말나들이"]
 tags = [
   "겨울",

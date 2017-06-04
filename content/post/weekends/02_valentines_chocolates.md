@@ -1,7 +1,7 @@
 +++
 banner = "/banners/weekends/02-valentines.jpg"
-description = "친구와 함께하는 발렌타인 초코렛 만들기! \
-  초코렛 코팅된 하트모양 딸기를 만들어 보아요."
+description = """친구와 함께하는 발렌타인 초코렛 만들기!
+초코렛 코팅된 하트모양 딸기를 만들어 보아요."""
 categories = ["주말나들이"]
 tags = [
   "친구",
