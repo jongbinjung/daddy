@@ -24,7 +24,6 @@ noprevnext = true
 # 먼 훗날 언젠가 ...
 
 - [ ] 라구니타 호수
-- [ ] Monterey Bay 아쿠아리움
 - [ ] 빅 베이슨 등산
 - [ ] 자전거 여행
 - [ ] Filoli (http://www.filoli.org/)
@@ -33,9 +32,10 @@ noprevnext = true
 
 ## <a name="201706"></a>6월
 - [ ] 24일:
-- [ ] 17일:
-- [ ] 10일:
-- [ ] 03일: [몬터레이 수족관]({{< ref "post/weekends/18_monterey_aquarium.md" >}})
+- [ ] 17일: 맷 소령 진급식
+- [x] 10일: [캠퍼스 산책]({{< ref "post/weekends/19_campus_walk.md" >}})
+    - 4.7 km / $12.78
+- [x] 03일: [몬터레이 수족관]({{< ref "post/weekends/18_monterey_aquarium.md" >}})
     - 282 km / $119.2
 
 ## <a name="201705"></a>5월: 296km / $117.9
