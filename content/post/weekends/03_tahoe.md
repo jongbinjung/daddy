@@ -143,7 +143,7 @@ width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></ifr
 >}}
 
 원하오 삼촌과 글로리아 이모 만나서는, (역시나 눈이 쌓여있는) 큰 호수의 남쪽
-부근에 가서, 가온이가 눈만큼이나 좋아하는 물가에서 잠깐 놀며, 하루를 마감.
+부근에 가서, 개비 정이 눈만큼이나 좋아하는 물가에서 잠깐 놀며, 하루를 마감.
 
 {{< figure
   src="/media/weekends/03/south_lake.jpg"
@@ -338,7 +338,7 @@ width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></ifr
 
 - 숙박비+공동비용: $544
 - 방수바지/장갑(내꺼): $135.03
-- 방수바지/장갑(가온이꺼): $16.99 + $76.79 = $93.78
+- 방수바지/장갑(개비 정꺼): $16.99 + $76.79 = $93.78
 - 곤돌라 티켓: $59
 - 첫째날 점심(McDonald's): $15.71
 - 둘째날 점심(Base Camp Pizza Co.): $36.42
