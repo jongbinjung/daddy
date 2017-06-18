@@ -32,7 +32,8 @@ noprevnext = true
 
 ## <a name="201706"></a>6월
 - [ ] 24일:
-- [ ] 17일: 맷 소령 진급식
+- [x] 17일: [야외 수영장]({{< ref "post/weekends/20_outdoor_swimming.md" >}})/맷 소령 진급식
+    - 78 km / $0
 - [x] 10일: [캠퍼스 산책]({{< ref "post/weekends/19_campus_walk.md" >}})
     - 4.7 km / $12.78
 - [x] 03일: [몬터레이 수족관]({{< ref "post/weekends/18_monterey_aquarium.md" >}})
