@@ -31,7 +31,8 @@ noprevnext = true
 # <a name="2017"></a>2017 년
 
 ## <a name="201706"></a>6월
-- [ ] 24일:
+- [x] 24일: [방랑]({{< ref "post/weekends/21_wandering.md" >}})
+    - 17.8 km / $26.95
 - [x] 17일: [야외 수영장]({{< ref "post/weekends/20_outdoor_swimming.md" >}})/맷 소령 진급식
     - 78 km / $0
 - [x] 10일: [캠퍼스 산책]({{< ref "post/weekends/19_campus_walk.md" >}})
