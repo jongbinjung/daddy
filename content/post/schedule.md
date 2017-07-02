@@ -31,6 +31,10 @@ noprevnext = true
 # <a name="2017"></a>2017 년
 
 ## <a name="201706"></a>6월
+- [x] 01일: [존슨 공원]({{< ref "post/weekends/22_johnson_park.md" >}})
+    - 3.2km / $29.76
+
+## <a name="201706"></a>6월
 - [x] 24일: [방랑]({{< ref "post/weekends/21_wandering.md" >}})
     - 17.8 km / $26.95
 - [x] 17일: [야외 수영장]({{< ref "post/weekends/20_outdoor_swimming.md" >}})/맷 소령 진급식
