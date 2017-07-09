@@ -31,6 +31,8 @@ noprevnext = true
 # <a name="2017"></a>2017 년
 
 ## <a name="201706"></a>6월
+- [x] 08일: [선인장 화원]({{< ref "post/weekends/23_cactus_garden.md" >}})
+    - 19.3km / $30.59
 - [x] 01일: [존슨 공원]({{< ref "post/weekends/22_johnson_park.md" >}})
     - 3.2km / $29.76
 
