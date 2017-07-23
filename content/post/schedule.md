@@ -31,6 +31,8 @@ noprevnext = true
 # <a name="2017"></a>2017 년
 
 ## <a name="201707"></a>7월
+- [x] 22일: [숲 속 수영장]({{< ref "post/weekends/25_swimming.md" >}})
+    - 7.4km / $11
 - [x] 15일: [몬터레이 가족 여행]({{< ref "post/weekends/24_monterey_tides.md" >}})
     - 306.3km 
 - [x] 08일: [선인장 화원]({{< ref "post/weekends/23_cactus_garden.md" >}})
