@@ -163,7 +163,7 @@ width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></ifr
 
 {{< figure
   src="/media/weekends/26/shopping.jpg"
-  caption="입장 하자마자 벤치에 앉아 과자 먹기" >}}
+  caption="아웃렛에서 쇼핑 놀이" >}}
 
 아쉽게도, 아웃렛에 딱히 맘에 드는 것도 없고, 날이 계속 뜨거워서, 오래 있지는
 못하고, 간단하게 간식만 먹고 바로 집으로 출발했다.
