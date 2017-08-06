@@ -31,11 +31,15 @@ noprevnext = true
 # <a name="2017"></a>2017 년
 
 ## <a name="201708"></a>8월:
-- [ ] 05일:
+- [ ] 26일:
+- [ ] 19일:
+- [ ] 12일:
+- [x] 05일: [할머니와 동네 쇼핑]({{< ref "post/weekends/27_shopping.md" >}})
+    - 6.4km / $43.6
 
 ## <a name="201707"></a>7월: 503.5km / $320.12
 - [x] 29일: [길로이 가든]({{< ref "post/weekends/26_gilroy_gardens.md" >}})
-    - 167.3m / $248.77
+    - 167.3km / $248.77
 - [x] 22일: [숲 속 수영장]({{< ref "post/weekends/25_swimming.md" >}})
     - 7.4km / $11
 - [x] 15일: [몬터레이 가족 여행]({{< ref "post/weekends/24_monterey_tides.md" >}})
