@@ -33,7 +33,7 @@ noprevnext = true
 ## <a name="201708"></a>8월:
 - [ ] 26일:
 - [ ] 19일:
-- [ ] 12일:
+- [x] 12일: [힐링 산책]({{< ref "post/weekends/28_stroll.md">}})
 - [x] 05일: [할머니와 동네 쇼핑]({{< ref "post/weekends/27_shopping.md" >}})
     - 6.4km / $43.6
 
