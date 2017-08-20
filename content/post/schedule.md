@@ -25,14 +25,15 @@ noprevnext = true
 
 - [ ] 라구니타 호수
 - [ ] 빅 베이슨 등산
+- [ ] 1박 캠핑
 - [ ] 자전거 여행
-- [ ] Filoli (http://www.filoli.org/)
 
 # <a name="2017"></a>2017 년
 
 ## <a name="201708"></a>8월:
 - [ ] 26일:
-- [ ] 19일:
+- [x] 19일: [친구랑 공원 나들이]({{< ref "post/weekends/29_shoreline_pedal.md" >}})
+    - 37km / $22.5
 - [x] 12일: [힐링 산책]({{< ref "post/weekends/28_stroll.md">}})
 - [x] 05일: [할머니와 동네 쇼핑]({{< ref "post/weekends/27_shopping.md" >}})
     - 6.4km / $43.6
