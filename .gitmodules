@@ -1,0 +1,6 @@
+[submodule "dam.jongbin.com"]
+	path = dam.jongbin.com
+	url = git@github.com:jongbinjung/dam.git
+[submodule "themes/hugo-icarus-theme"]
+	path = themes/hugo-icarus-theme
+	url = git@github.com:jongbinjung/hugo-icarus-theme.git
