@@ -3,7 +3,6 @@ banner = "/banners/weekends/01-winter-lodge.jpg"
 
 title = "#XX S"
 date = {{ .Date }}
-description = ""
 
 categories = ["주말나들이"]
 tags = [
