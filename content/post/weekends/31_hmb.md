@@ -89,7 +89,7 @@ width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></ifr
 
 {{< figure
   src="/media/weekends/31/icecream.jpg"
-  caption="노도 젓고 물도 만지는 개비 정" >}}
+  caption="가훈2: 배 터지더라도 아이스크림은 먹자" >}}
 
 결국, 시킨 점심 다 못 먹고 테이크아웃 박스에 담아 옴. 그럼에도 불구하고,
 바로 옆 아이스크림 가게를 그냥 지나칠 수는 없어서, 아이스크림까지 하나씩 먹고,
