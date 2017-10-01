@@ -33,12 +33,12 @@ noprevnext = true
 
 ## <a name="201710"></a>10월
 - [ ] 28일:
-- [ ] 21일:
-- [ ] 14일:
-- [ ] 07일:
+- [ ] 21일: 장기 휴무 4/4
+- [ ] 14일: 장기 휴무 3/4
+- [ ] 07일: 장기 휴무 2/4
 
 ## <a name="201709"></a>9월:
-- [ ] 30일:
+- [x] 30일: [장기 휴무 1/4]({{< ref "post/weekends/35_breakweek1.md" >}})
 - [x] 23일: [교회 친구들과 공원 나들이]({{< ref "post/weekends/34_park.md" >}})
     - 49 km
 - [x] 16일: [길로이 가든 재방]({{< ref "post/weekends/33_gilroy_returns.md" >}})
