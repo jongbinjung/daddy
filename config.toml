@@ -101,7 +101,7 @@ person = "people"
     facebook        = ""
     facebook_admin  = ""
     twitter_domain  = ""
-    twitter         = "bean_G"
+    twitter         = ""
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
