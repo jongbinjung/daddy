@@ -35,9 +35,9 @@ noprevnext = true
 - [ ] 28일:
 - [ ] 21일: 장기 휴무 4/4
 - [ ] 14일: 장기 휴무 3/4
-- [ ] 07일: 장기 휴무 2/4
+- [x] 07일: [장기 휴무 2/4]({{< ref "post/weekends/36_breakweek2.md" >}})
 
-## <a name="201709"></a>9월:
+## <a name="201709"></a>9월: 299.3km / $157.27
 - [x] 30일: [장기 휴무 1/4]({{< ref "post/weekends/35_breakweek1.md" >}})
 - [x] 23일: [교회 친구들과 공원 나들이]({{< ref "post/weekends/34_park.md" >}})
     - 49 km

@@ -7,7 +7,7 @@ tags = [
 ]
 categories = ["주말나들이"]
 
-banner = "/banners/weekends/35-break-1.jpg"
+banner = "/banners/weekends/36-break-2.jpg"
 
 slug = "breakweek2"
 
