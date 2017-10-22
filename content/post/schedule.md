@@ -39,7 +39,7 @@ noprevnext = true
 
 ## <a name="201710"></a>10월
 - [ ] 28일:
-- [ ] 21일: 장기 휴무 4/4
+- [x] 21일: [장기 휴무 4/4]({{< ref "post/weekends/38_breakweek4.md" >}})
 - [x] 14일: [장기 휴무 3/4]({{< ref "post/weekends/37_breakweek3.md" >}})
 - [x] 07일: [장기 휴무 2/4]({{< ref "post/weekends/36_breakweek2.md" >}})
 
