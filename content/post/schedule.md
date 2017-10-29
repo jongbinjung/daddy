@@ -38,7 +38,7 @@ noprevnext = true
 - [ ] 04일: 학교 그룹 단합대회
 
 ## <a name="201710"></a>10월
-- [ ] 28일:
+- [x] 28일: [디즈니 온 아이스/윤언니 생파]({{< ref "post/weekends/39_disney_on_ice.md" >}})
 - [x] 21일: [장기 휴무 4/4]({{< ref "post/weekends/38_breakweek4.md" >}})
 - [x] 14일: [장기 휴무 3/4]({{< ref "post/weekends/37_breakweek3.md" >}})
 - [x] 07일: [장기 휴무 2/4]({{< ref "post/weekends/36_breakweek2.md" >}})
