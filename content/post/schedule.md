@@ -35,7 +35,8 @@ noprevnext = true
 - [ ] 25일:
 - [ ] 18일:
 - [ ] 11일:
-- [ ] 04일: 학교 그룹 단합대회
+- [x] 04일: [학교 랩 나들이]({{< ref "post/weekends/40_lab_offsite.md" >}})
+    - 166 km
 
 ## <a name="201710"></a>10월
 - [x] 28일: [디즈니 온 아이스/윤언니 생파]({{< ref "post/weekends/39_disney_on_ice.md" >}})
