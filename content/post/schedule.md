@@ -34,7 +34,7 @@ noprevnext = true
 ## <a name="201711"></a>11월
 - [ ] 25일:
 - [ ] 18일:
-- [ ] 11일:
+- [x] 11일: [방콕]({{< ref "post/weekends/41_bangkok.md" >}})
 - [x] 04일: [학교 랩 나들이]({{< ref "post/weekends/40_lab_offsite.md" >}})
     - 166 km
 
