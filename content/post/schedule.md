@@ -32,7 +32,7 @@ noprevnext = true
 # <a name="2017"></a>2017 년
 
 ## <a name="201711"></a>11월
-- [ ] 25일:
+- [x] 25일: [땡스기빙]({{< ref "post/weekends/43_thanksgiving.md" >}})
 - [x] 18일: [색깔공장]({{< ref "post/weekends/42_color_factory.md" >}})
 - [x] 11일: [방콕]({{< ref "post/weekends/41_bangkok.md" >}})
 - [x] 04일: [학교 랩 나들이]({{< ref "post/weekends/40_lab_offsite.md" >}})
