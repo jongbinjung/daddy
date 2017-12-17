@@ -34,7 +34,7 @@ noprevnext = true
 ## <a name="201711"></a>12월
 - [ ] 30일:
 - [ ] 23일: 아이스크림 박물관 (https://www.museumoficecream.com/)
-- [ ] 16일:
+- [x] 16일: [연말 쇼핑]({{< ref "post/weekends/46_shopping.md" >}})
 - [x] 09일: [선인장 화원 재방문]({{< ref "post/weekends/45_cactus_garden.md" >}})
 - [x] 02일: [트리 점등식 & 김장 체험]({{< ref "post/weekends/44_tree_lighting.md" >}})
 
