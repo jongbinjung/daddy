@@ -2,4 +2,4 @@
 
 # Build the project.
 # hugo serve -D --navigateToChanged
-hugo serve
+hugo serve -D -F

@@ -33,7 +33,8 @@ noprevnext = true
 
 ## <a name="201711"></a>12월
 - [ ] 30일:
-- [ ] 23일: 아이스크림 박물관 (https://www.museumoficecream.com/)
+- [ ] 28일: [(복불복) 크레이트 아메리카 겨울 축제]({{< ref "post/badluck/2017_winterfest.md" >}})
+- [x] 23일: [아이스크림 박물관]({{< ref "post/weekends/47_moic.md" >}}) (https://www.museumoficecream.com/)
 - [x] 16일: [연말 쇼핑]({{< ref "post/weekends/46_shopping.md" >}})
 - [x] 09일: [선인장 화원 재방문]({{< ref "post/weekends/45_cactus_garden.md" >}})
 - [x] 02일: [트리 점등식 & 김장 체험]({{< ref "post/weekends/44_tree_lighting.md" >}})
@@ -115,7 +116,7 @@ noprevnext = true
     - 31 km / $79.8
 
 ## <a name="201703"></a>3월: 123km / $212.93
-- [x] 31일: [(복불복) 머리 자르기]({{< ref "post/first_haircut.md" >}})
+- [x] 31일: [(복불복) 머리 자르기]({{< ref "post/badluck/first_haircut.md" >}})
     - 19 km / $52.75
 - [x] 25일: [할머니/고모 귀국]({{< ref "post/weekends/08_goodbye.md" >}})
     - 72 km / $0
