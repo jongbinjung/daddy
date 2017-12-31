@@ -32,8 +32,7 @@ noprevnext = true
 # <a name="2017"></a>2017 년
 
 ## <a name="201711"></a>12월
-- [ ] 30일:
-- [ ] 28일: [(복불복) 크레이트 아메리카 겨울 축제]({{< ref "post/badluck/2017_winterfest.md" >}})
+- [x] 30일: [크리스마스 주간]({{< ref "post/weekends/48_christmas.md" >}})
 - [x] 23일: [아이스크림 박물관]({{< ref "post/weekends/47_moic.md" >}}) (https://www.museumoficecream.com/)
 - [x] 16일: [연말 쇼핑]({{< ref "post/weekends/46_shopping.md" >}})
 - [x] 09일: [선인장 화원 재방문]({{< ref "post/weekends/45_cactus_garden.md" >}})
