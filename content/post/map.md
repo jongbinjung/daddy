@@ -6,7 +6,7 @@ slug = "map"
 images = []
 menu = "main"
 categories = [ "공지" ]
-banner = "/banners/map.jpg"
+banner = "/img/map.jpg"
 title = "지도"
 description = ""
 

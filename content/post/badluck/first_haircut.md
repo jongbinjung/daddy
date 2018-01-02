@@ -7,7 +7,7 @@ tags = [
 ]
 categories = ["복불복"]
 description = "학교가 쉬는 바람에, 아빠랑 함께 지내며 머리 자르러 간 금요일 이야기."
-banner = "/banners/first-haircut.jpg"
+banner = "/img/first-haircut.jpg"
 disable_comments = false
 draft = false
 slug = "first-haircut"

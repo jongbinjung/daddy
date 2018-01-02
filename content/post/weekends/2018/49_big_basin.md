@@ -2,7 +2,7 @@
 banner = "/img/weekends/01-winter-lodge.jpg"
 
 title = "#XX S"
-date = {{ .Date }}
+date = 2018-01-06T21:28:45-08:00
 
 categories = ["주말나들이"]
 tags = [
@@ -13,7 +13,7 @@ people = [
     "",
 ]
 
-slug = ""
+slug = "big_basin"
 
 draft = false
 disable_comments = false

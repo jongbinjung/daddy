@@ -8,7 +8,7 @@ tags = [
 ]
 categories = [""]
 
-banner = "/banners/"
+banner = "/img/"
 images = []
 
 menu = ""

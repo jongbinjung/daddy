@@ -8,7 +8,7 @@ categories = [ "공지" ]
 tags = []
 disable_comments = true
 title = "DAM?"
-banner = "/banners/dam.jpg"
+banner = "/img/dam.jpg"
 
 nodateline = true
 noprevnext = true

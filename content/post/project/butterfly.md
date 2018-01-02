@@ -9,7 +9,7 @@ tags = [
 date = 2017-08-08T20:39:39-07:00
 categories = ["탐구생활"]
 
-banner = "/banners/project/butterfly.jpg"
+banner = "/img/project/butterfly.jpg"
 
 slug = "caterpillars"
 
