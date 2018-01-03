@@ -1,6 +1,6 @@
 +++
 date = "2017-02-06T22:09:05-07:00"
-disable_comments = true
+disable_comments = false
 draft = false
 slug = "map"
 images = []
