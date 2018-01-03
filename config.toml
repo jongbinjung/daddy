@@ -26,7 +26,7 @@ person = "people"
     bio = "남편 > 학생 > 아빠"
     location = "우리집"
     site_description = "캘리포니아에 사는 아빠와 딸이 주말마다 열심히 놀러 다니는 이야기"
-    copyright  = "[종빈](https://jongbin.com) + \
+    copyright  = "[종빈](http://jongbin.com) + \
                   [휴고](//gohugo.io) 블로그 + \
                   [Icarus](https://github.com/ppoffice) 테마"
     avatar = "media/avatar.png"
@@ -67,7 +67,7 @@ person = "people"
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://jongbin.com"
+    follow_button = "http://jongbin.com"
 
 
 [social]
