@@ -36,7 +36,7 @@ noprevnext = true
 ## <a name="201801"></a>1월
 - [ ] 27일: 
 - [ ] 20일: 
-- [ ] 13일: 
+- [x] 13일: [골든 게이트 공원]({{< ref "post/weekends/2018/50_mlk_golden_gate_park.md" >}})
 - [x] 06일: [발레 교실 체험]({{< ref "post/weekends/2018/49_tutu_ballet.md" >}})
 
 # <a name="2017"></a>2017 년
