@@ -34,8 +34,8 @@ noprevnext = true
 # <a name="2018"></a>2018 년
 
 ## <a name="201801"></a>1월
-- [ ] 27일: 
-- [ ] 20일: 
+- [ ] 27일: 밴쿠버 스키 여행
+- [x] 20일: [밸리 페어 쇼핑]({{< ref "post/weekends/2018/51_valley_fair.md" >}})
 - [x] 13일: [골든 게이트 공원]({{< ref "post/weekends/2018/50_mlk_golden_gate_park.md" >}})
 - [x] 06일: [발레 교실 체험]({{< ref "post/weekends/2018/49_tutu_ballet.md" >}})
 
