@@ -33,8 +33,13 @@ noprevnext = true
 
 # <a name="2018"></a>2018 년
 
+- [ ] 24일:
+- [ ] 17일:
+- [ ] 10일:
+- [x] 03일: [또 공짜 아이스 스케이팅]({{< ref "post/weekends/2017/01_winter_lodge.md" >}})
+
 ## <a name="201801"></a>1월
-- [x] 27일: 밴쿠버 여행기 [1]({{< ref "post/weekends/2018/52_1_vancouver.md">}}) | [2]({{< ref "post/weekends/2018/52_2_vancouver.md">}}) 
+- [x] 27일: 밴쿠버 여행기 [1]({{< ref "post/weekends/2018/52_1_vancouver.md">}}) | [2]({{< ref "post/weekends/2018/52_2_vancouver.md">}})
 - [x] 20일: [밸리 페어 쇼핑]({{< ref "post/weekends/2018/51_valley_fair.md" >}})
 - [x] 13일: [골든 게이트 공원]({{< ref "post/weekends/2018/50_mlk_golden_gate_park.md" >}})
 - [x] 06일: [발레 교실 체험]({{< ref "post/weekends/2018/49_tutu_ballet.md" >}})

@@ -43,8 +43,7 @@ allowfullscreen></iframe>
 
 {{< figure
   src="/media/weekends/01/skates.jpg"
-  caption="아빠 + 어린이 스케이트"
->}}
+  caption="아빠 + 어린이 스케이트" >}}
 
 말도 안되게 귀여운 초소형 어린이 스케이트!
 
@@ -63,8 +62,7 @@ allowfullscreen></iframe>
 
 {{< figure
   src="/media/weekends/01/at_the_door.jpg"
-  caption="들어갈까 말까 고민"
->}}
+  caption="들어갈까 말까 고민" >}}
 
 스케이트장에 있는 약 두 시간 동안, 계속 지대한 관심을 보이고, 내가
 탈 때 엄청 좋아하고 응원하면서도, 결국 스케이트 신어보지도 않음.
