@@ -34,7 +34,7 @@ noprevnext = true
 # <a name="2018"></a>2018 년
 
 - [ ] 24일:
-- [ ] 17일:
+- [x] 17일: [친구와 공원 나들이]({{< ref "post/weekends/2018/55_romy.md" >}})
 - [x] 10일: [언니 개비 정의 하루]({{< ref "post/weekends/2018/54_tnc.md" >}})
 - [x] [1주년 기념 꽃 구경]({{< ref "post/weekends/2018/53_2_sonoma.md" >}})
 - [x] 03일: [또 공짜 아이스 스케이팅]({{< ref "post/weekends/2018/53_winter_lodge.md" >}})
