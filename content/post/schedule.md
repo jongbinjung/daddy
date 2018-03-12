@@ -37,7 +37,7 @@ noprevnext = true
 - [ ] 31일: 서울 나들이
 - [ ] 24일: 한국 방문기
 - [ ] 17일:
-- [ ] 10일:
+- [x] 11일: [파이로리]({{<ref "post/weekends/2018/58_filoli.md" >}})
 - [x] 04일: [샌프란 나들이]({{< ref "post/weekends/2018/57_sf.md" >}})
 
 ## <a name="201802"></a>2월
