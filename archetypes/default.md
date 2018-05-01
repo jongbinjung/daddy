@@ -1,21 +1,27 @@
 +++
+banner = "/img/weekends/dam.jpg"
+
 title = ""
 date = {{ .Date }}
-description = ""
 
-tags = [
-  "",
-]
 categories = [""]
+tags = [
+    "",
+    "",
+]
+<!--
+people = [
+    "",
+]
+-->
 
-banner = "/img/"
-images = []
-
-menu = ""
 slug = ""
 
-draft = true
-disable_comments = true
+draft = false
+disable_comments = false
 +++
 
 <!--more-->
+
+이렇게, … 날도 무사히, 끝.
+

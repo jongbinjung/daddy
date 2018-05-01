@@ -10,6 +10,7 @@ title = "이실직고"
 slug = "truth"
 menu = ""
 tags = [
+    "犬聲",
     "생각",
     "육아",
 ]
