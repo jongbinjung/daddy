@@ -50,7 +50,7 @@ width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></ifr
 {{< figure src="/media/outing/solvang/breakfast.jpg"
   caption="놀라운 맛의 아침! (사실, 그렇게 맛있진 않았다;;;)" >}}
 
-간단하게 빵으로 아침을 떼우고서는 천천히 동네 산책하다가 우연히 발견한 
+간단하게 빵으로 아침을 떼우고서는 천천히 동네 산책하다가 우연히 발견한
 한스 크리스찬 안데르센 기념 광장!
 
 {{< figure src="/media/outing/solvang/andersen_square.jpg"
@@ -62,7 +62,7 @@ width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></ifr
 >
 > **개비 정**: (고집쟁이 할아버지 처럼 유모차에 앉아서) 엄마 아빠 찍으세요~ (개비 정)은 안.찍.을.꺼.야.
 
-요즘 이렇게 고집부리고 원인 모르게 간혹 짜증/화를 부릴 때가 있는데 ... 그럴 때마다 
+요즘 이렇게 고집부리고 원인 모르게 간혹 짜증/화를 부릴 때가 있는데 ... 그럴 때마다
 마음 속 깊은 곳으로부터 솟아 오르는 빡침 때문에 훌.절.엄.과 함께 아주 고생이 심하다.
 
 나도 모르게, 빡침충만하여
@@ -84,12 +84,12 @@ width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></ifr
 분위기 낼 수 있었다.
 
 그런데, 출퇴근 길에 혼자 쌩쌩 달리는 자전거랑은 또 다르게, 개비 정도 싣고 짐도 싣고,
-오르막/내리막을 천천히 누비는 요놈은 또 색달리 힘이 드는거 ... 
+오르막/내리막을 천천히 누비는 요놈은 또 색달리 힘이 드는거 ...
 
 {{< figure src="/media/outing/solvang/icecream.jpg"
   caption="페달 한 번 밟아 보지도 않고 제일 힘듦" >}}
 
-그래서, 한 시간도 채우지 못하고, 약 40분만에 우린 자전거 반납하고 바로 옆 
+그래서, 한 시간도 채우지 못하고, 약 40분만에 우린 자전거 반납하고 바로 옆
 아이스크림 가게로~
 
 {{< figure src="/media/outing/solvang/everyone.jpg" >}}
@@ -104,19 +104,19 @@ width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></ifr
 {{< figure src="/media/outing/solvang/rawr.jpg"
   caption="개비 정 사진 찍는 아빠 사진 찍은 훌.절.엄" >}}
 
-크게 (1) 어린이 용품, (2) 골동품(앤틱)/수집품 (3) 식당 ... 으로 나뉘는 것 같은 솔뱅 
+크게 (1) 어린이 용품, (2) 골동품(앤틱)/수집품 (3) 식당 ... 으로 나뉘는 것 같은 솔뱅
 시내(라고 해봐야 걸어서 20~30분이면 다 돌아 다닐 수 있는 아주 작은 마을).
 
 {{< figure src="/media/outing/solvang/photo_op.jpg"
   caption="무서운 표정" >}}
 
-온갖 공주, 티파티, 인어, 요정 등등 수집품들 구경 하는데, 둘러보는 곳 마다 
-한 결 같이 개비 정 취향 저격 ... 
+온갖 공주, 티파티, 인어, 요정 등등 수집품들 구경 하는데, 둘러보는 곳 마다
+한 결 같이 개비 정 취향 저격 ...
 
 {{< figure src="/media/outing/solvang/tiara.jpg"
   caption="티아라 앞에서 겸허한 개비 정" >}}
 
-관광지라, 모든게 지나치게 비싼 줄 알면서도, 결국 개비 정 티 세트와 
+관광지라, 모든게 지나치게 비싼 줄 알면서도, 결국 개비 정 티 세트와
 우리집 뻐꾸기 시계 하나 지름.
 
 {{< figure src="/media/outing/solvang/edelweiss.jpg"

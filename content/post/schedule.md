@@ -39,9 +39,9 @@ noprevnext = true
 ## <a name="201806"></a>6월
 
 ## <a name="201805"></a>5월
-- [ ] 11일: (LA) 유니버설 스튜디오
-- [x] 10일: [솔뱅]({{< ref "post/outing/solvang.md" >}})
-- [x] 05일: [빅 바운스 아메리카]({{< ref "post/outing/bbh.md" >}})
+- [x] 11-13일: [LA 나들이]({{< ref "post/outing/2018/la.md" >}})
+- [x] 10일: [솔뱅]({{< ref "post/outing/2018/solvang.md" >}})
+- [x] 05일: [빅 바운스 아메리카]({{< ref "post/outing/2018/bbh.md" >}})
 
 ## <a name="201803"></a>3월
 - [x] 24일: [한국 방문기]({{< ref "post/weekends/2018/60_korea_1.md" >}})
