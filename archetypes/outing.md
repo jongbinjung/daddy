@@ -1,5 +1,5 @@
 +++
-banner = ""
+banner = "/img/outing/"
 
 title = ""
 date = {{ .Date }}
