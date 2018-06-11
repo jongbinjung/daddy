@@ -37,8 +37,10 @@ noprevnext = true
 - [ ] 14일: 요세미티
 
 ## <a name="201806"></a>6월
+- [x] 9일: [산딸기 사냥]({{< ref "post/outing/2018/berrypicking.md" >}})
 
 ## <a name="201805"></a>5월
+- [x] 26일: [샌프란 궁전 나들이]({{< ref "post/outing/2018/marina.md" >}})
 - [x] 11-13일: [LA 나들이]({{< ref "post/outing/2018/la.md" >}})
 - [x] 10일: [솔뱅]({{< ref "post/outing/2018/solvang.md" >}})
 - [x] 05일: [빅 바운스 아메리카]({{< ref "post/outing/2018/bbh.md" >}})
