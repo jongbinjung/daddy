@@ -35,6 +35,7 @@ noprevnext = true
 
 ## <a name="201807"></a>7월
 - [ ] 14일: 요세미티
+- [x] 07일: [공원 나들이]({{< ref "post/outing/2018/shoreline.md" >}})
 
 ## <a name="201806"></a>6월
 - [x] 9일: [산딸기 사냥]({{< ref "post/outing/2018/berrypicking.md" >}})
