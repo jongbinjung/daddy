@@ -34,7 +34,8 @@ noprevnext = true
 # <a name="2018"></a>2018 년
 
 ## <a name="201807"></a>7월
-- [ ] 14일: 요세미티
+- [ ] 15일: 분수대 풀 파티
+- [x] 14일: [요세미티 성경 학교]({{< ref "post/outing/2018/yosemite.md" >}})
 - [x] 07일: [공원 나들이]({{< ref "post/outing/2018/shoreline.md" >}})
 
 ## <a name="201806"></a>6월
