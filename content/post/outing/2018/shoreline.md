@@ -21,8 +21,8 @@ disable_comments = false
 +++
 
 한국에서 여름 동안 잠깐 오신 마이 할머니/할아버지와 열심히 놀러 다니는 요즘,
-이번 주말은 [예전에]({{< ref "post/weekends/2017/07_shoreline_park.md" >}})
-[몇 번]({{< ref "post/weekends/2017/29_shoreline_pedal.md" >}}) 다녀온 쇼어
+이번 주말은 [예전에]({{< ref "/post/weekends/2017/07_shoreline_park.md" >}})
+[몇 번]({{< ref "/post/weekends/2017/29_shoreline_pedal.md" >}}) 다녀온 쇼어
 라인 호수 공원 나들이를 가기로 했다.
 
 <!--more-->

@@ -17,7 +17,7 @@ draft = false
 disable_comments = false
 +++
 
-이번주는 [봄에 갔던 선인장 화원]({{< ref "post/weekends/2017/23_cactus_garden.md" >}})을
+이번주는 [봄에 갔던 선인장 화원]({{< ref "/post/weekends/2017/23_cactus_garden.md" >}})을
 훌륭한 절세미녀(tm) 엄마와 함께 다녀왔다.
 
 <!--more-->
@@ -57,7 +57,7 @@ disable_comments = false
   caption="삐져서 사진 안 찍갰다고 고개 돌린 거임" >}}
 
 그렇게 우리의 선인장 화원 나들이는 짧게 마치고,
-[스쇼]({{< ref "post/map.md" >}}#스쇼)로 고고씽.
+[스쇼]({{< ref "/post/map.md" >}}#스쇼)로 고고씽.
 연말 주말이라, 사람은 또 어찌나 많은지 … 하지만 언제나 그렇듯, 멜트는 충분히
 기다리고 고생할만한 가치가 있었다.
 

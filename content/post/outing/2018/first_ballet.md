@@ -24,7 +24,7 @@ disable_comments = false
 
 <!--more-->
 
-[발레 놀이]({{< ref "post/weekends/2018/49_tutu_ballet.md" >}})도 벌써 5개월
+[발레 놀이]({{< ref "/post/weekends/2018/49_tutu_ballet.md" >}})도 벌써 5개월
 차에 접어드는 개비 정도, 보다 심도 있게 발레에 관심을 보이기 시작해서,
 그리고 가격도 정말정말 저렴해서, 훌절(tm)엄과 나는,
 
@@ -77,7 +77,7 @@ disable_comments = false
   caption="공연 시작 전" >}}
 
 … 등 집중해서 잘 보더니, 40분쯤 지나서는, 흥미를 잃은건지, 아니면
-[최근 몇 일 아팠던]({{< ref "post/badluck/vomit.md">}})게 아직 회복이
+[최근 몇 일 아팠던]({{< ref "/post/badluck/vomit.md">}})게 아직 회복이
 덜 됐는지,
 
 > **개비 정**: 다 끝났어? 집에 언제가? 힘들다 …

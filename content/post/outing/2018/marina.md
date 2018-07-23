@@ -31,7 +31,7 @@ disable_comments = false
 {{< figure src="/media/outing/marina/bpatisserie.jpg"
   caption="비 파티셰" >}}
 
-[예전에 다녀온 타르틴]({{< ref "post/weekends/2018/57_sf.md" >}})이랑은 또 다른
+[예전에 다녀온 타르틴]({{< ref "/post/weekends/2018/57_sf.md" >}})이랑은 또 다른
 매력의 비 파티셰. (일단, 타르틴보다 줄이 짧았다는;;;)
 
 짧고 굵게 (그리고 맛있게) 배를 간단히 채우고, 케빈 삼촌 만나기로 한 시간까지

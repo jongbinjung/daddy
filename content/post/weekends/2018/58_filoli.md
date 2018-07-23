@@ -55,7 +55,7 @@ allowfullscreen></iframe>
 {{< figure src="/media/weekends/58/selfie.jpg"
   caption="매표소 앞에서 셀카" >}}
 
-[지난주]({{< ref "post/weekends/2018/57_sf.md" >}})에는 그렇게 신나게 사진을
+[지난주]({{< ref "/post/weekends/2018/57_sf.md" >}})에는 그렇게 신나게 사진을
 찍던 개비 정, 오늘은 또 왠 일인지
 
 > **개비 정**: 아니야. 찍지 마.세.요.[^1]

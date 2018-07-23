@@ -22,8 +22,8 @@ description = "학교/동네 친구 주한이와 함께한 로뎅 박물관 견�
 이번주 목적지는 캠퍼스 입구 근처에 있는 로뎅 박물관(본명은 좀 더 길고
 복잡하지만, 로뎅 작품이 주로 전시되어 있어서 난 그냥 로뎅 박물관이라 부르기로
 함)!
-블로그에 이름/뒷모습만 [몇 번]({{< ref "post/weekends/2017/06_ball_pool.md" >}})
-[등장한]({{< ref "post/weekends/2017/10_playdate.md" >}}) 동네/학교 친구 주한이도
+블로그에 이름/뒷모습만 [몇 번]({{< ref "/post/weekends/2017/06_ball_pool.md" >}})
+[등장한]({{< ref "/post/weekends/2017/10_playdate.md" >}}) 동네/학교 친구 주한이도
 함께 가서 더욱 신남.
 
 <figure>

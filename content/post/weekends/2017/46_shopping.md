@@ -15,9 +15,9 @@ draft = false
 disable_comments = false
 +++
 
-이번주는 낮에 [예전에 타호]({{< ref "post/weekends/2017/03_tahoe.md" >}}) 같이 갔던
-원하오 삼촌/글로리아 이모와 함께 [오펜하]({{< ref "post/map.md" >}}#오펜하)에서
-브런치 먹고, 오후에는 [스쇼]({{< ref "post/map.md" >}}#스쇼)에서 연말 선물
+이번주는 낮에 [예전에 타호]({{< ref "/post/weekends/2017/03_tahoe.md" >}}) 같이 갔던
+원하오 삼촌/글로리아 이모와 함께 [오펜하]({{< ref "/post/map.md" >}}#오펜하)에서
+브런치 먹고, 오후에는 [스쇼]({{< ref "/post/map.md" >}}#스쇼)에서 연말 선물
 쇼핑을 했다.
 
 <!--more-->

@@ -16,7 +16,7 @@ draft = false
 disable_comments = false
 +++
 
-[2주 전 공원 나들이]({{< ref "post/weekends/2017/29_shoreline_pedal.md" >}})하면서
+[2주 전 공원 나들이]({{< ref "/post/weekends/2017/29_shoreline_pedal.md" >}})하면서
 [학교친구 애이다](/people/학교친구-애이다)와 함께 페달 보트도 타고,
 지난주에는 학교가 쉬는 바람에 훌륭한 절세미녀(tm) 엄마와 함께 샌프란 1박 여행을
 다녀오면서 크루즈 보트도 타고온 개비 정 … 이제는 보트 바람이 들어버려서,

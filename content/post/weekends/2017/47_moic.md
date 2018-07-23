@@ -18,7 +18,7 @@ draft = false
 disable_comments = false
 +++
 
-지난번 [색깔 공장]({{< ref "post/weekends/2017/42_color_factory.md" >}})에 이어,
+지난번 [색깔 공장]({{< ref "/post/weekends/2017/42_color_factory.md" >}})에 이어,
 이번주는 색깔 공장 보다 더 티켓을 구하기 어렵다는
 [샌프란시스코 아이스크림 박물관](https://www.museumoficecream.com/san-francisco/)을
 다녀왔다.

@@ -85,7 +85,7 @@ PB&J](http://www.smuckersuncrustables.com/products/peanut-butter-and-strawberry-
   caption="점심 먹는 개비 정" >}}
 
 감사하게도, 동네친구 주한이 엄마가 개비 정 몫까지 [블루베리 머핀]({{< ref
-"post/weekends/2017/12_cantor.md" >}}#fn:1)을 또 챙겨주셔서, 배부르게 잘 먹을 수
+"/post/weekends/2017/12_cantor.md" >}}#fn:1)을 또 챙겨주셔서, 배부르게 잘 먹을 수
 있었다.
 
 다행히, 오후에는 --- 밥 먹고 기분들이 좋아졌는지 --- 다양한 동물 친구들(기린,

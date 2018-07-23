@@ -25,8 +25,8 @@ disable_comments = false
 몇 주 전부터, [학교친구 애이다](/people/학교친구-애이다)가 주말에 함께 놀자
 했었는데, 할머니 할아버지 와 계시고 해서 못 놀다가, 이번주에 마침, 예전에
 [할머니랑 나들이 갔던 공원]({{< ref
-"post/weekends/2017/07_shoreline_park.md" >}})을 함께 가기로 했다.
-[DAM의 취지]({{< ref "post/about.md" >}})에는 다소 벗어나지만, 중요한 시험도
+"/post/weekends/2017/07_shoreline_park.md" >}})을 함께 가기로 했다.
+[DAM의 취지]({{< ref "/post/about.md" >}})에는 다소 벗어나지만, 중요한 시험도
 마쳤고 해서, 이번 주에는 훌륭한 절세미녀(tm) 엄마도 함께 하기로 했다.
 
 <!--more-->
@@ -76,7 +76,7 @@ width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></ifr
   caption="미리 도착해서 기다리는 중" >}}
 
 [지난번에 왔을 때]({{< ref
-"post/weekends/2017/07_shoreline_park.md" >}})도 느꼈지만, 어찌나 큰 거위들이 그리도
+"/post/weekends/2017/07_shoreline_park.md" >}})도 느꼈지만, 어찌나 큰 거위들이 그리도
 많은지 … 개비 정도 처음에는 무섭다고 자전거 타고 줄행랑을 치더니, 언제부턴가
 신경도 안 씀. 다만, 몸집이 큰만큼 애들 똥도 커서, 모두들 깜짝 놀랐다.
 

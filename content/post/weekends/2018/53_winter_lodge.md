@@ -21,7 +21,7 @@ disable_comments = false
 
 
 약 1년전, 주말 나들이의 시작이었던 [공짜 아이스 스케이팅]({{<
-ref "post/weekends/2017/01_winter_lodge.md" >}}). 올 해에도 동네 행사로 똑같은
+ref "/post/weekends/2017/01_winter_lodge.md" >}}). 올 해에도 동네 행사로 똑같은
 곳에서 무료 아이스 스케이팅 행사를 하길래, 훌륭한 절세미녀(tm) 엄마와 개비 정과 함께
 다녀왔다.
 

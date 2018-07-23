@@ -16,8 +16,8 @@ date = "2017-03-04T19:47:26-08:00"
 
 원래, 이번 주말은 교회 대청소 일정이 있어서, 개비 정과 함께 ~~일 손 도우러~~
 구경 하러 갈 계획이었는데,
-[지난]({{< ref "post/weekends/2017/03_tahoe.md" >}})
-[2주 간]({{< ref "post/weekends/2017/04_fitzgerald_marine.md" >}})
+[지난]({{< ref "/post/weekends/2017/03_tahoe.md" >}})
+[2주 간]({{< ref "/post/weekends/2017/04_fitzgerald_marine.md" >}})
 주말마다 밖으로 쏘다니며 너무 열심히 놀았던 터인지, 개비 정은 원인/이름 모를
 병으로 한 주 내내 골골 거렸다. 해서, 이번 주말은 얌전하게 병원을 가보기로
 했는데 …
@@ -68,7 +68,7 @@ date = "2017-03-04T19:47:26-08:00"
   caption="튤립으로 새단장한 스쇼" >}}
 
 스쇼에서 맥앤치즈 하면 당연 The Melt지만, [최근]({{< ref
-"post/weekends/2017/01_winter_lodge.md" >}})에도 갔었기에 --- 그리고 난 도무지
+"/post/weekends/2017/01_winter_lodge.md" >}})에도 갔었기에 --- 그리고 난 도무지
 맥앤치즈가 먹고싶지 않아서, 오늘은 CPK를 갔다.
 
 {{< figure

@@ -19,7 +19,7 @@ title = "#4 간조기 해변 놀이"
 겨울 중에는 캘리포니아 해변 간물 때에 바닷물이 많이 빠져서 게, 문어,
 갯 민숭 달팽이(nudibranch 구글번역;;;) 등을 볼 수 있는 곳들이 있다.
 [타호 악천후 운전 경력자 원하오를 따라 타호를 갔던 지난주]({{< ref
-"post/weekends/2017/03_tahoe.md" >}})에 이어, 이번주에는 야외 활동 전문가
+"/post/weekends/2017/03_tahoe.md" >}})에 이어, 이번주에는 야외 활동 전문가
 마샬과 엘리제 부부의 조언을 받들어, 간조기 해변 놀이를 가보기로 했다!
 장소는 우리 집에서 차로 약 50분 떨어진 [Fitzgerald Marine
 Reserve](http://www.fitzgeraldreserve.org).

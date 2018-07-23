@@ -20,13 +20,13 @@ slug = "monterey-tides"
 draft = false
 disable_comments = false
 +++
-[DAM의 취지]({{< ref "post/about.md" >}})에는 다소 벗어나지만, 이번 주에는
+[DAM의 취지]({{< ref "/post/about.md" >}})에는 다소 벗어나지만, 이번 주에는
 훌륭한 절세미녀(tm) 엄마와 함께 1박 2일 가족여행을 다녀오기로 했다.
 
 <!--more-->
 
 장소는 [지난 달 갔던 수족관]({{< ref
-"post/weekends/2017/18_monterey_aquarium.md" >}}) 근처, 바닷가가 보이는 호텔.
+"/post/weekends/2017/18_monterey_aquarium.md" >}}) 근처, 바닷가가 보이는 호텔.
 아직 개비 정은 바닷가 하면 "모래놀이" 생각 뿐이기에, 모래 놀이 하기 최적의
 장소를 찾아 예약했다.
 
@@ -120,7 +120,7 @@ disable_comments = false
 
 몬터레이에는, 수족관 옆으로 해변을 따라, 예전에는 정어리 통조림 공장이었던
 건물들이 이제는 대거 쇼핑몰로 개조 된 "통조림 공장 거리"(cannery row)가 있다.
-지난번 [수족관 왔을 때]({{< ref "post/weekends/2017/18_monterey_aquarium.md" >}})는
+지난번 [수족관 왔을 때]({{< ref "/post/weekends/2017/18_monterey_aquarium.md" >}})는
 시간이 없어서 못 가봐서, 이번에 다 같이 가서 점심도 먹고 (개비
 정이 제일 좋아하는) 쇼핑도 했다.
 
