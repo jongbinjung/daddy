@@ -27,11 +27,13 @@ noprevnext = true
 # 먼 훗날 언젠가 ...
 
 - [ ] 라구니타 호수
-- [ ] 1박 캠핑
 - [ ] 자전거 여행
 - [ ] 빅 베이슨 등산
 
 # <a name="2018"></a>2018 년
+
+## <a name="201807"></a>8월
+- [x] 08일: [필러 포인트 해변]({{< ref "/post/weekends/2018/pillar_point.md" >}})
 
 ## <a name="201807"></a>7월
 - [x] 22일: [분수대 풀 파티]({{< ref "/post/outing/2018/fountain_hopping.md" >}})
