@@ -1,7 +1,7 @@
 +++
 banner = "/img/outing/lajolla.jpg"
 
-title = "샌디에고 1/4 - 라 호야"
+title = "샌디에고 1/4 - 라호야"
 date = 2018-09-10T19:41:02-07:00
 
 categories = ["가족나들이"]
