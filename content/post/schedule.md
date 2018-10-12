@@ -33,7 +33,7 @@ noprevnext = true
 # <a name="2018"></a>2018 년
 
 ## <a name="201809"></a>9월
-- [ ] 13-14일: 레고랜드
+- [x] 13-14일: [레고랜드]({{< ref "/post/outing/2018/legoland.md" >}})
 - [x] 12일: [칼스바드 해변]({{< ref "/post/outing/2018/carlsbad.md" >}})
 - [x] 11일: [샌디에고 동물원]({{< ref "/post/outing/2018/sdzoo.md" >}})
 - [x] 10일: [샌디에고 라호야]({{< ref "/post/outing/2018/lajolla.md" >}})
