@@ -32,6 +32,9 @@ noprevnext = true
 
 # <a name="2018"></a>2018 년
 
+## <a name="201809"></a>11월
+- [x] 24일: [캔디토피아]({{< ref "/post/outing/2018/candytopia.md" >}})
+
 ## <a name="201809"></a>9월
 - [x] 13-14일: [레고랜드]({{< ref "/post/outing/2018/legoland.md" >}})
 - [x] 12일: [칼스바드 해변]({{< ref "/post/outing/2018/carlsbad.md" >}})
