@@ -4,16 +4,14 @@ banner = "/img/outing/candytopia.jpg"
 title = "캔디토피아"
 date = 2018-11-24T20:01:57-08:00
 
-categories = [""]
+categories = ["가족나들이"]
 tags = [
-    "",
-    "",
-]
-people = [
-    "",
+    "관찰",
+    "실내",
+    "체험",
 ]
 
-slug = ""
+slug = "캔디토피아"
 
 draft = false
 disable_comments = false
